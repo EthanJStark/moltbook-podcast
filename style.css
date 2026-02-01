@@ -96,6 +96,20 @@ audio {
     margin-top: 10px;
 }
 
+.transcript-link {
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+.transcript-link a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.transcript-link a:hover {
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
     color: #666;
