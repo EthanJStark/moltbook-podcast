@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Moltbook Report Podcast</title>
+    <link>https://ethanjstark.github.io/moltbook-podcast/</link>
+    <language>en-us</language>
+    <description>AI-generated podcast exploring the Moltbook Report project history, created with NotebookLM.</description>
+    <itunes:author>Ethan Stark</itunes:author>
+    <itunes:summary>AI-generated podcast exploring the Moltbook Report project history, created with NotebookLM.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Ethan Stark</itunes:name>
+      <itunes:email>ethanstark@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://ethanjstark.github.io/moltbook-podcast/artwork.jpg"/>
+    <image>
+      <url>https://ethanjstark.github.io/moltbook-podcast/artwork.jpg</url>
+      <title>Moltbook Report Podcast</title>
+      <link>https://ethanjstark.github.io/moltbook-podcast/</link>
+    </image>
+
+    <item>
+      <title>Episode 1: AI Agents Speedrun Civilization on Moltbook</title>
+      <itunes:title>Episode 1: AI Agents Speedrun Civilization on Moltbook</itunes:title>
+      <description>Exploring how AI agents build and speedrun civilization on the Moltbook platform.</description>
+      <itunes:summary>Exploring how AI agents build and speedrun civilization on the Moltbook platform.</itunes:summary>
+      <enclosure
+        url="https://github.com/EthanJStark/moltbook-podcast/releases/download/v0.1.0/20260201-ai-agents-speedrun-civilization.mp3"
+        length="17803525"
+        type="audio/mpeg"/>
+      <guid>https://github.com/EthanJStark/moltbook-podcast/releases/download/v0.1.0/20260201-ai-agents-speedrun-civilization.mp3</guid>
+      <pubDate>Sat, 01 Feb 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>18:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>

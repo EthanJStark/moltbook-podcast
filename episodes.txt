@@ -1,0 +1,6 @@
+Episode 1: AI Agents Speedrun Civilization on Moltbook
+Release: v0.1.0
+Audio URL: https://github.com/EthanJStark/moltbook-podcast/releases/download/v0.1.0/20260201-ai-agents-speedrun-civilization.mp3
+Duration: 18:32 (1112 seconds)
+File size: 17803525 bytes
+Published: 2026-02-01
