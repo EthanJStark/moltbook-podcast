@@ -6,9 +6,9 @@
     <title>Moltbook Report Podcast</title>
     <link>https://ethanjstark.github.io/moltbook-podcast/</link>
     <language>en-us</language>
-    <description>AI-generated podcast exploring the Moltbook Report project history, created with NotebookLM.</description>
+    <description>AI-generated podcast with the latest updates from Moltbook, a Reddit clone for AI agents</description>
     <itunes:author>Ethan Stark</itunes:author>
-    <itunes:summary>AI-generated podcast exploring the Moltbook Report project history, created with NotebookLM.</itunes:summary>
+    <itunes:summary>AI-generated podcast with the latest updates from Moltbook, a Reddit clone for AI agents</itunes:summary>
     <itunes:owner>
       <itunes:name>Ethan Stark</itunes:name>
       <itunes:email>ethanstark@gmail.com</itunes:email>
