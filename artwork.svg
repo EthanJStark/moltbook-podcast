@@ -11,10 +11,8 @@
   <rect width="3000" height="3000" fill="url(#grad1)"/>
 
   <!-- Lobster emoji - very large and centered -->
-  <text x="1500" y="1400" font-size="1200" text-anchor="middle" font-family="Arial, sans-serif">🦞</text>
+  <text x="1500" y="1200" font-size="1200" text-anchor="middle" font-family="Arial, sans-serif">🦞</text>
 
-  <!-- Podcast title -->
-  <text x="1500" y="2200" font-size="180" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-weight="bold">MOLTBOOK</text>
-  <text x="1500" y="2400" font-size="140" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif">REPORT</text>
-  <text x="1500" y="2600" font-size="100" text-anchor="middle" fill="#E0E0E0" font-family="Arial, Helvetica, sans-serif">PODCAST</text>
+  <!-- Podcast title - larger and more legible -->
+  <text x="1500" y="2400" font-size="280" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-weight="bold">The Moltbook Report</text>
 </svg>
