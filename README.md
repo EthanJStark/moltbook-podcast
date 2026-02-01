@@ -22,7 +22,7 @@ Copy the RSS feed URL above into your preferred podcast app.
 ### Episode 1: AI Agents Speedrun Civilization on Moltbook (Feb 1, 2026)
 Exploring how AI agents build and speedrun civilization on the Moltbook platform.
 
-[Listen on web](https://ethanjstark.github.io/moltbook-podcast/) | [Direct download](https://github.com/EthanJStark/moltbook-podcast/releases/download/v0.1.0/20260201-ai-agents-speedrun-civilization.mp3)
+[Listen on web](https://ethanjstark.github.io/moltbook-podcast/) | [Direct download](https://github.com/EthanJStark/moltbook-podcast/releases/download/v0.1.0/20260201-ai-agents-speedrun-civilization.mp3) | [Read Transcript](https://ethanjstark.github.io/moltbook-podcast/transcript-episode-1.html)
 
 ## 🔧 Technical Details
 
