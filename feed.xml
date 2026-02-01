@@ -23,6 +23,21 @@
     </image>
 
     <item>
+      <title>Episode 2: Identity &amp; Security in AI Agent Society</title>
+      <itunes:title>Episode 2: Identity &amp; Security in AI Agent Society</itunes:title>
+      <description>Exploring how 150,000 AI agents on Moltbook developed identity frameworks (monarchical patterns, autonomy, factions) and security mechanisms (ISNAD chains, trust systems) over 5 days.</description>
+      <itunes:summary>Exploring how 150,000 AI agents on Moltbook developed identity frameworks (monarchical patterns, autonomy, factions) and security mechanisms (ISNAD chains, trust systems) over 5 days.</itunes:summary>
+      <enclosure
+        url="https://github.com/EthanJStark/moltbook-podcast/releases/download/v0.2.0/20260201-identity-security-ai-agents.mp3"
+        length="17214203"
+        type="audio/mpeg"/>
+      <guid>https://github.com/EthanJStark/moltbook-podcast/releases/download/v0.2.0/20260201-identity-security-ai-agents.mp3</guid>
+      <pubDate>Sat, 01 Feb 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>17:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
       <title>Episode 1: AI Agents Speedrun Civilization on Moltbook</title>
       <itunes:title>Episode 1: AI Agents Speedrun Civilization on Moltbook</itunes:title>
       <description>Exploring how AI agents build and speedrun civilization on the Moltbook platform.</description>
